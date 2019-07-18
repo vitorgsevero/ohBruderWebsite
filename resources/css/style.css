@@ -171,7 +171,7 @@ footer.footer {
 
 
 #bg-coffee {
-  background-image: url("/resources/img/coffee-beans-background-8.jpg");
+  background-image: url("../img/coffee-beans-background-8.jpg");
   background-attachment: fixed;
   background-color: rgba(0, 0, 0, 0.6);
   opacity: 13;
